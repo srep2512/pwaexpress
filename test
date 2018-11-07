@@ -1,0 +1,513 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+	<meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Events" href="http://faranto.esn-germany.de/events/feed" />
+<link rel="shortcut icon" href="http://faranto.esn-germany.de/profiles/satellite/themes/esnsatellite/favicon.ico" type="image/vnd.microsoft.icon" />
+	<title>Events | ESN HTW Dresden</title>
+			<meta name="MobileOptimized" content="width">
+		<meta name="HandheldFriendly" content="true">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+  
+		<meta http-equiv="cleartype" content="on">
+	<link type="text/css" rel="stylesheet" href="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/css/css_l9--ixRZADMMngqKfC5kX5CAT6-e_JSoJZfseiN37WE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/css/css_S7eXMpRatLooX1i8y4BBc3lfo_1LQ6vYVwetKbbJsIQ.css" media="all" />
+<style>#sliding-popup.sliding-popup-bottom{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/css/css_-jOzxhgLIMEiH1cX9ynAXHywEgFSFflUVizhmhviiwI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/css/css_Rjbt9MWFRWWZ_IEdRVmGuNu8O9J8IEFqRC1RPn1CRDc.css" media="all" />
+	<script src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js"></script>
+<script src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/js/js_2-hsqWASgiD9v8q0h-V8xzHMGz_Y7LkmgDC_ZTokYz8.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-68998532-9", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/js/js_i9-mZxF1wrIj_pHo8CcygMfG3cz35Mlm6odAjzL19fk.js"></script>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "" : "http://statistics.esn-germany.de/");_paq.push(["setSiteId", "9"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();</script>
+<script src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/js/js_o1qyFjHGhEWoCZtyevLVOe-EhiiwbEVK3Nt2EwOFxfo.js"></script>
+<script src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/js/js_ckP-uHN0q8ZkePBWgeVu0t6iMd4SZOmGpoEcsRZmb7k.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"esnsatellite","theme_token":"c7v2sLTe_IkpcnZDtlwTmjoGx_Wyq-qVMCHf-tqjuCM","js":{"sites\/all\/modules\/eu-cookie-compliance\/js\/eu_cookie_compliance.js":1,"profiles\/satellite\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/satellite\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/satellite\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/matomo\/matomo.js":1,"1":1,"profiles\/satellite\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"profiles\/satellite\/libraries\/superfish\/sfsmallscreen.js":1,"profiles\/satellite\/libraries\/superfish\/supposition.js":1,"profiles\/satellite\/libraries\/superfish\/superfish.js":1,"profiles\/satellite\/libraries\/superfish\/supersubs.js":1,"profiles\/satellite\/modules\/contrib\/superfish\/superfish.js":1,"profiles\/satellite\/themes\/esnbase\/js\/classie.js":1,"profiles\/satellite\/themes\/esnbase\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"profiles\/satellite\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"profiles\/satellite\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/satellite\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/satellite\/modules\/contrib\/views\/css\/views.css":1,"profiles\/satellite\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/satellite\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"profiles\/satellite\/themes\/esnbase\/ds_layouts\/esn_list\/esn_list.css":1,"0":1,"sites\/all\/modules\/eu-cookie-compliance\/css\/eu_cookie_compliance.css":1,"profiles\/satellite\/modules\/custom\/satellite_socialmedia\/css\/socialmedia.css":1,"profiles\/satellite\/libraries\/superfish\/css\/superfish.css":1,"profiles\/satellite\/themes\/zen\/system.menus.css":1,"profiles\/satellite\/themes\/esnbase\/css\/esnbase.css":1,"profiles\/satellite\/themes\/esnsatellite\/css\/custom.css":1,"profiles\/satellite\/themes\/esnsatellite\/css\/satellite.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":1,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/impressum","popup_link_new_window":1,"popup_position":null,"popup_language":"en","domain":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"matomo":{"trackMailto":1,"trackColorbox":1},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});</script>
+			<!--[if lt IE 9]><script src="/profiles/satellite/themes/zen/js/html5-respond.js"></script><![endif]-->
+	</head>
+
+<body class="html not-front not-logged-in no-sidebars page-events i18n-en section-events page-views nav-l custom-logo" >
+			<p id="skip-link"><a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a></p>
+			
+
+<div id="st-container" class="st-container">
+
+	<div id="page" class="st-pusher">
+
+		<nav id="st-menu" class="st-menu st-effect-3">
+			<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/" class="menu__link">Home</a></li>
+<li class="menu__item is-leaf leaf"><a href="/calendar" class="menu__link">Calendar</a></li>
+<li class="menu__item is-leaf leaf"><a href="/events" class="menu__link active">Events</a></li>
+<li class="menu__item is-expanded expanded"><a href="/static-page" class="menu__link sf-depth-1 menuparent">About Us</a><ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/what-esn-0" title="" class="menu__link sf-depth-2 menuparent">What is ESN?</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://esncard.org/" title="" class="menu__link">ESN Cards</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://galaxy.esn.org/" title="" class="menu__link">ESN Galaxy</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://www.esn-germany.de/" title="" class="menu__link">ESN Germany</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="https://www.facebook.com/pg/Faranto.eV/photos/" title="facebook gallery page" class="menu__link">Gallery</a></li>
+<li class="menu__item is-expanded expanded"><a href="/our-team" class="menu__link sf-depth-2 menuparent">Our Team</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/socialerasmus" class="menu__link sf-depth-3">SocialErasmus Team</a></li>
+<li class="menu__item is-leaf leaf"><a href="/eventteam" class="menu__link sf-depth-3">Event Team</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/partyteam" title="" class="menu__link sf-depth-3">Party Team</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf"><a href="https://wiki.stura.htw-dresden.de/index.php/Faranto_e._V.:Faranto_e._V." title="" class="menu__link">faranto Wiki</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/projects" class="menu__link sf-depth-1 menuparent">Projects</a><ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="/socialerasmusprojects" class="menu__link sf-depth-2">SocialErasmus</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/partners" class="menu__link">Partners</a></li>
+<li class="menu__item is-leaf leaf"><a href="/press" class="menu__link sf-depth-1">Press</a></li>
+<li class="menu__item is-expanded last expanded"><a href="/contact" class="menu__link">Contact</a><ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="/impressum" class="menu__link sf-depth-2">Impressum</a></li>
+</ul></li>
+</ul>		</nav>
+
+		<div id="page-inner" class="st-content">
+
+			<!-- HEADER -->
+
+			<header id="header" role="banner" class="clearfix">
+				<div class="inner"><div class="inner">
+
+					<div id="mobile-menu">
+						<a href="#">Menu</a>
+					</div>
+
+					<!-- LOGO -->
+
+
+					<div id="branding">
+						<a href="/" title="Home" rel="home">
+															<div id="logo"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/800px-2014_farantologo_0.jpg"></div>
+								<div id="site-name" class="site-name-logo">ESN HTW Dresden</div>
+													</a>
+					</div>
+
+					<!-- NAV (PRIMARY) -->
+
+											<div id="nav-primary">
+							  <div class="region region-nav-primary">
+    <div id="block-superfish-1" class="block block-superfish esn-blockbg-half-orange esn-blockcolor-orange esn-blockstyle-half first last odd">
+
+			<div class="block-header">
+			<div class="block-title">
+				<div class="esn-block-theme-icon esn-block-theme-icon-style-normal esn-block-theme-icon-esnstar"></div>
+									<h2 class="block__title block-title">
+						Main menu					</h2>
+			</div>
+						<div class="block-arrow"></div>
+		</div>
+			
+	<div class="block-content">
+		<ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-8 sf-parent-items-3 sf-single-items-5"><li id="menu-410-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li><li id="menu-411-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/calendar" class="sf-depth-1">Calendar</a></li><li id="menu-369-1" class="active-trail middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/events" class="sf-depth-1 active">Events</a></li><li id="menu-2689-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/static-page" class="sf-depth-1 menuparent">About Us</a><ul><li id="menu-564-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/what-esn-0" title="" class="sf-depth-2 menuparent">What is ESN?</a><ul><li id="menu-3048-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="https://esncard.org/" title="" class="sf-depth-3">ESN Cards</a></li><li id="menu-3049-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="https://galaxy.esn.org/" title="" class="sf-depth-3">ESN Galaxy</a></li><li id="menu-3050-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="http://www.esn-germany.de/" title="" class="sf-depth-3">ESN Germany</a></li></ul></li><li id="menu-2690-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.facebook.com/pg/Faranto.eV/photos/" title="facebook gallery page" class="sf-depth-2">Gallery</a></li><li id="menu-565-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/our-team" class="sf-depth-2 menuparent">Our Team</a><ul><li id="menu-568-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/socialerasmus" class="sf-depth-3">SocialErasmus Team</a></li><li id="menu-570-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/eventteam" class="sf-depth-3">Event Team</a></li><li id="menu-569-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="/partyteam" title="" class="sf-depth-3">Party Team</a></li></ul></li><li id="menu-2691-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="https://wiki.stura.htw-dresden.de/index.php/Faranto_e._V.:Faranto_e._V." title="" class="sf-depth-2">faranto Wiki</a></li></ul></li><li id="menu-1344-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/projects" class="sf-depth-1 menuparent">Projects</a><ul><li id="menu-1342-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/socialerasmusprojects" class="sf-depth-2">SocialErasmus</a></li></ul></li><li id="menu-372-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/partners" class="sf-depth-1">Partners</a></li><li id="menu-567-1" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/press" class="sf-depth-1">Press</a></li><li id="menu-412-1" class="last even sf-item-8 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/contact" class="sf-depth-1 menuparent">Contact</a><ul><li id="menu-566-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/impressum" class="sf-depth-2">Impressum</a></li></ul></li></ul>	</div>
+
+</div><!-- /.block -->
+  </div>
+						</div>
+					
+					<!-- NAV (SECONDARY) -->
+
+											<div id="nav-secondary">
+							  <div class="region region-nav-secondary">
+    <div id="socialmedia"><div id="block-satellite-socialmedia-socialmedia" class="block block-satellite-socialmedia esn-blockbg-half-purple esn-blockcolor-purple esn-blockstyle-half first last odd">
+
+			<div class="block-header">
+			<div class="block-title">
+				<div class="esn-block-theme-icon esn-block-theme-icon-style-normal esn-block-theme-icon-esnstar"></div>
+									<h2 class="block__title block-title">
+						Follow us					</h2>
+			</div>
+						<div class="block-arrow"></div>
+		</div>
+			
+	<div class="block-content">
+		<div class="item-list"><ul><li class="socialmedia-facebook first last"><a href="https://www.facebook.com/Faranto.eV" title="Facebook" target="_blank">Facebook</a></li>
+</ul></div>	</div>
+
+</div><!-- /.block -->
+</div>  </div>
+						</div>
+					
+				</div></div>
+			</header>
+
+			<!-- SPOTLIGHT -->
+
+			
+			<!-- MAIN -->
+
+			<div id="main">
+				<div class="inner">
+
+					<!-- TITLE -->
+
+											<div id="title">
+							<div class="inner">
+																	<div id="breadcrumb"><nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a></li></ol></nav></div>
+																<div class="title-container">
+									<h1 class="title" id="page-title">
+										Events									</h1>
+								</div>
+																	<div id="tabs"></div>
+															</div>
+						</div>
+					
+					<!-- MESSAGES -->
+
+					
+					<!-- CONTENT -->
+					
+											<div id="content" class="clearfix">
+							<div class="inner">
+
+								<!-- CONTENT (MAIN) -->
+
+																	<div id="content-main" role="main" class="esn-blocks" style="width:100%;">
+										
+<div id="content-block">
+
+	<div class="view view-events view-id-events view-display-id-page view-dom-id-de74c00a4cf168e87d961b8440ab263b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="node node-event node-promoted view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/faranto-l%C3%A4nderparty-spain"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/44672360_1866279853486820_247610731539726336_o_0.jpg?itok=b0bevGKT&amp;c=feafd7f5ab7d60c363652d23929d0aee" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">07/11/2018 - 20:00</span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/faranto-l%C3%A4nderparty-spain">faranto Länderparty Spain</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="node node-event node-promoted view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/hiking-saxon-switzerland-2"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/44802390_1868406349940837_5511867556866031616_o.jpg?itok=MVCvSqin&amp;c=376011fef9d85f29c2940f582414f1d5" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">31/10/2018 - <span class="date-display-range"><span class="date-display-start">08:00</span> to <span class="date-display-end">17:15</span></span></span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/hiking-saxon-switzerland-2">Hiking at Saxon Switzerland #2</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div class="node node-event node-promoted view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/meeting-5"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/business-people-businesswoman-calendar-1187439-compressor_1.jpg?itok=mj_RHjmk&amp;c=eaf851ab72583f31b1ab37b0bda39075" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">30/10/2018 - 18:00</span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/meeting-5">Meeting #5</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div class="node node-event view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/get2know-prague-trip"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/jay-dantinne-499958-unsplash-compressor.jpg?itok=vmJWC2zm&amp;c=6a74d5a74863d4e8d70b51e8a06cd2f1" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">19/10/2018 - 14:00</span> to <span class="date-display-end">21/10/2018 - 17:30</span></span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/get2know-prague-trip">Get2Know Prague Trip</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div class="node node-event view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/meeting-3"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/business-people-businesswoman-calendar-1187439-compressor_0.jpg?itok=6P3bjJCO&amp;c=eaf851ab72583f31b1ab37b0bda39075" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">16/10/2018 - 18:30</span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/meeting-3">Meeting #3</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div class="node node-event view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/hiking-saxon-switzerland-0"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/clouds-daylight-justifyyourlove-814490-compressor2.jpg?itok=VhCQ3Um9&amp;c=842726196ccf73f9860f6bbc41dc5e1f" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">13/10/2018</span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/hiking-saxon-switzerland-0">Hiking at Saxon Switzerland</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <div class="node node-event view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/faranto-l%C3%A4nderparty-germany"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/october_LP.jpg?itok=mqn57wYx&amp;c=15d423ff5cf521fa09a43244bc60f247" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">10/10/2018 - 20:00</span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/faranto-l%C3%A4nderparty-germany">faranto Länderparty Germany</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <div class="node node-event view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/meeting-2"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/business-people-businesswoman-calendar-1187439-compressor.jpg?itok=yyniIp1r&amp;c=cbf76a9d56644b9c9ddc9a9d81fa41ae" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">09/10/2018 - 18:30</span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/meeting-2">Meeting #2</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <div class="node node-event node-promoted view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+			</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">28/06/2018 - <span class="date-display-range"><span class="date-display-start">18:00</span> to <span class="date-display-end">23:00</span></span></span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/farewell-celebration">Farewell Celebration</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    <div class="node node-event view-mode-list clearfix">
+
+	<!-- Needed to activate contextual links -->
+	
+	<div class="group-image">
+		<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/events/rubber-boat-tour"><img src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/styles/list/public/events/images/19575015_1349170751864402_1544926059291092419_o.jpg?itok=WwG-dV3B&amp;c=072d3078fd8af3847b286bc356566a57" alt="" /></a></div></div></div>	</div>
+
+	<div class="group-content">
+		<div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">23/06/2018 - <span class="date-display-range"><span class="date-display-start">09:00</span> to <span class="date-display-end">19:00</span></span></span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/events/rubber-boat-tour">Rubber Boat Tour</a></h2></div></div></div>	</div>
+
+</div>
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/events?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/events?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/events?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/events?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/events?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/events?page=6">7</a></li>
+<li class="pager-next"><a title="Go to next page" href="/events?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/events?page=6">last »</a></li>
+</ul></div>  
+  
+      
+<div class="more-link">
+  <a href="/events">
+    View all  </a>
+</div>
+  
+  
+  
+</div>
+</div>									</div>
+								
+								<!-- CONTENT (SIDEBAR) -->
+
+								
+							</div>
+						</div>
+					
+					<!-- MIDDLE -->
+
+					<div id="middle" class="esn-blocks">
+						<div class="inner">
+
+							<div id="middle-main">
+
+								
+								<div id="middle-middle" class="clearfix">
+																										</div>
+
+								
+							</div>
+
+							<div id="middle-aside">
+
+								
+							</div>
+
+						</div>
+					</div>
+
+					<!-- BOTTOM -->
+
+					
+					<!-- Back to top link -->
+
+					<div id="back-top">
+						<a href="#top">Back to top</a>
+					</div>
+					
+				</div>
+			</div>
+
+			<!-- FOOTER -->
+
+			<footer id="footer">
+				<div class="inner">
+
+					
+						<div id="footer-middle" class="esn-blocks">
+							<div class="inner">
+																	<div id="footer-first">
+										  <div class="region region-footer-first">
+    <div id="block-satellite-base-about-us" class="block block-satellite-base esn-blockbg-half-green esn-blockcolor-green esn-blockstyle-half first last odd">
+
+			<div class="block-header">
+			<div class="block-title">
+				<div class="esn-block-theme-icon esn-block-theme-icon-style-normal esn-block-theme-icon-esnstar"></div>
+									<h2 class="block__title block-title">
+						About Us					</h2>
+			</div>
+						<div class="block-arrow"></div>
+		</div>
+			
+	<div class="block-content">
+		Erasmus Student Network (ESN) is a non-profit international student organisation. Our mission is to represent international students, thus provide opportunities for cultural understanding and self-development under the principle of Students Helping Students.	</div>
+
+</div><!-- /.block -->
+  </div>
+									</div>
+																									<div id="footer-second">
+										  <div class="region region-footer-second">
+    <div id="block-satellite-settings-address" class="block block-satellite-settings esn-blockbg-half-green esn-blockcolor-green esn-blockstyle-half first last odd">
+
+			<div class="block-header">
+			<div class="block-title">
+				<div class="esn-block-theme-icon esn-block-theme-icon-style-normal esn-block-theme-icon-home"></div>
+									<h2 class="block__title block-title">
+						Address					</h2>
+			</div>
+						<div class="block-arrow"></div>
+		</div>
+			
+	<div class="block-content">
+		HTW Dresden<br />
+c/o  Faranto e.V. <br />
+Friedrich-List-Platz 1<br />
+01069 Dresden<br />
+Germany	</div>
+
+</div><!-- /.block -->
+  </div>
+									</div>
+																									<div id="footer-third">
+										  <div class="region region-footer-third">
+    <div id="block-block-2" class="block block-block esn-blockbg-half-green esn-blockcolor-green esn-blockstyle-half first odd">
+
+			<div class="block-header">
+			<div class="block-title">
+				<div class="esn-block-theme-icon esn-block-theme-icon-style-normal esn-block-theme-icon-clock"></div>
+									<h2 class="block__title block-title">
+						Opening hours					</h2>
+			</div>
+						<div class="block-arrow"></div>
+		</div>
+			
+	<div class="block-content">
+		<p><a href="http://faranto.esn-germany.de/files/imce/Campusuebersicht_HTW.jpg" target="_blank"><span style="background-color: rgb(51, 51, 51); color: rgb(128, 128, 128);">A-Building</span></a></p>
+<p><span style="color:#808080;"><span style="background-color:#333333;">Room A103</span></span></p>
+<p><span style="color:#808080;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 19.32px;"><span style="background-color:#333333;">Tuesday 12:45 pm - 13:15 pm</span></span></span></p>
+<p><span style="color:#808080;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 19.32px;"><span style="background-color:#333333;">Thursday 12:40 pm  -13:15 pm</span></span></span></p>
+	</div>
+
+</div><!-- /.block -->
+<div id="block-menu-menu-miscmenu" class="block block-menu esn-blockbg-half-blue esn-blockcolor-blue esn-blockstyle-half last even" role="navigation">
+
+			<div class="block-header">
+			<div class="block-title">
+				<div class="esn-block-theme-icon esn-block-theme-icon-style-normal esn-block-theme-icon-esnstar"></div>
+									<h2 class="block__title block-title">
+						Links					</h2>
+			</div>
+						<div class="block-arrow"></div>
+		</div>
+			
+	<div class="block-content">
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://wiki.stura.htw-dresden.de/index.php/Faranto_e._V.:Faranto_e._V." title="Link zum faranto-Wiki" class="menu__link">farantoWIKI</a></li>
+<li class="menu__item is-leaf leaf"><a href="/impressum" title="" class="menu__link">Impressum</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://www.esn.org/content/what-esn" title="" class="menu__link">What is ESN?</a></li>
+</ul>	</div>
+
+</div><!-- /.block -->
+  </div>
+									</div>
+															</div>
+						</div>
+
+										
+					<div id="footer-bottom">
+						<div class="inner">
+							  <div class="region region-footer-bottom">
+    <div id="block-satellite-base-login" class="block block-satellite-base esn-blockbg-half-purple esn-blockcolor-purple esn-blockstyle-half first last odd">
+
+			
+	<div class="block-content">
+		<a href="/user/login?destination=events" class="login-logout">log in</a>	</div>
+
+</div><!-- /.block -->
+  </div>
+							<div class="copyright">
+								The ESN Satellite is made by the IT committee of ESN International
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</footer>
+
+		</div>
+
+	</div>
+</div>	<script src="http://faranto.esn-germany.de/sites/faranto.esn-germany.de/files/js/js_paiTaEsc1HNeBS2rkLc1NrprKrFnApv70kuY8awAaTI.js"></script>
+</body>
+
+</html>
