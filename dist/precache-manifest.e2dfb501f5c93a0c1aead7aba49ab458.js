@@ -8,16 +8,20 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.875205e6.js"
   },
   {
-    "revision": "d46c0b701ce71d8efc8b",
-    "url": "/js/app.6036d630.js"
+    "revision": "2c9947ccdcabb6d5e007",
+    "url": "/js/app.8ad9809f.js"
   },
   {
     "revision": "73362790e234123431ae",
     "url": "/js/about.62b236ff.js"
   },
   {
-    "revision": "01912e35b9a3a3cfe15392c22df44389",
+    "revision": "2f8ad8f0901817ed67ae12d80cc160e1",
     "url": "/index.html"
+  },
+  {
+    "revision": "301f94aeeac34f6fa406b2c25a209323",
+    "url": "/img/paypal.301f94ae.png"
   },
   {
     "revision": "63a7d78d42c33b94fc7b957524795cac",
@@ -28,7 +32,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.8840928a.css"
   },
   {
-    "revision": "d46c0b701ce71d8efc8b",
-    "url": "/css/app.9f8217a9.css"
+    "revision": "2c9947ccdcabb6d5e007",
+    "url": "/css/app.095ae999.css"
   }
 ];
