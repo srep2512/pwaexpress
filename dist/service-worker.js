@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.f7b25e9d8831225d3270fe879ab155f6.js", "/workbox-v3.6.3/workbox-sw.js");
+importScripts("/precache-manifest.c508f701abd615d2a226d3ebde5b6f51.js", "/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
 workbox.core.setCacheNameDetails({prefix: "fapp"});
   
